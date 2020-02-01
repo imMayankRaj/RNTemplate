@@ -1,0 +1,16 @@
+axios
+react-navigation
+react-native-elements
+react-native-fast-image
+react-native-gesture-handler
+react-native-reanimated
+react-native-screens
+react-navigation-stack
+react-native-dropdownalert
+react-native-safe-area-context
+react-native-spinkit
+react-native-vector-icons
+@react-native-community/async-storage
+@react-native-community/datetimepicker
+react-redux
+redux
